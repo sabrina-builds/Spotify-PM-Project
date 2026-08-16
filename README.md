@@ -2,7 +2,7 @@
 
 Data-driven product case study: mining Spotify's Google Play Store reviews for the biggest driver of negative sentiment, then designing a Figma fix for it.
 
-**[View the interactive prototype →] (https://www.figma.com/proto/Ukq9xKpMbheNcCWLqmYBRz/Spotify-Analysis-Project?node-id=8-147&viewport=-1145%2C130%2C0.52&t=sAp22lbGbyWEtgZR-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=7%3A52&page-id=7%3A51)**
+**View the interactive prototype** → https://www.figma.com/proto/Ukq9xKpMbheNcCWLqmYBRz/Spotify-Analysis-Project?node-id=8-147&viewport=-1145%2C130%2C0.52&t=sAp22lbGbyWEtgZR-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=7%3A52&page-id=7%3A51
 
 ## Overview
 
